@@ -1,0 +1,16 @@
+//Sanat
+//oct 21
+import java.util.*;
+public class intro12{
+  public static void main(String[] args){
+  //Declaration
+  Scanner input = new Scanner(System.in);
+  int myIt = 1;
+  double myDouble = 3;
+  // we call declare a varible without setting a value.
+  System.out.pintln("MyInt = " + myInt);
+  System.out.println("MyDouble = "+myDouble);
+  myInt = 6 + myDouble
+  System.out.pintln("MyInt v2 = " + myInt);
+  }
+}

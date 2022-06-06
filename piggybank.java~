@@ -1,0 +1,27 @@
+//nov 2
+//Sanatjon Burkhanov
+//PIGGY BANK
+import java.util.*;
+import java.text.DecimalFormat;
+public class Demon2{
+  public static void main(String[] args){
+  //Declarations
+  Scanner input = new Scanner(System.in);
+  DecimalFormat fd1 = new DecimalFormat("$#,###.00");
+  String name;
+  double q,d,n,p;
+  System.out.println("Piggy Bank");
+  System.out.println("What is your name? ");
+  
+  System.out.println("Piggy Bank");
+  System.out.println("Piggy Bank");
+  System.out.println("Piggy Bank");
+  System.out.println("Piggy Bank");
+  System.out.println("Piggy Bank");
+  System.out.println("Piggy Bank");
+  
+  
+  
+  
+  } // ends void 
+}// ends class

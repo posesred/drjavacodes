@@ -1,0 +1,8 @@
+public class Intro2 {
+     public static viod man(String[] args){
+       System.out.printIn("This should work");
+       System.out.println("This worked yesterday";
+       Sysem.out.println("HELP");
+       System.out.println("Please");                     
+       
+   }//end class

@@ -1,0 +1,23 @@
+//nov 15
+import java.util.*;
+public class Conditional3{
+  public static void main(String[] args){
+  //Declarations
+  Scanner x = new Scanner(System.in);
+  System.out.println("What your height? Enter the feet:" );
+  int f = x.nextInt();
+  System.out.println("What your height? Enter the inches:" );
+  int i = x.nextInt();
+  int nf = 12*f;
+  int nh = nf+i;
+  if(nh> (6*12)+3){
+  System.out.println("You are tall " );
+  }
+  if(nh< (4*12)+10){
+  System.out.println("You are short " );
+  }
+  else{
+  System.out.println("You are average " );  
+  }
+  }
+}

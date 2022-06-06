@@ -1,0 +1,36 @@
+//nov 30
+import java.util.*;
+public class Conditionals8 {
+  public static void main(String[] args){
+//Declaration of independence 
+  Scanner input = new Scanner(System.in);
+  
+  
+  System.out.println("Do you want fries? Press 0 for yes and 1 for no");
+  int frychoice = input.nextInt();
+  if(frychoice==0){
+  System.out.println("Would you like any condiments? Press 1 for ketchup and 2 for Mustard and 3 for Mayo and 4 for none");
+  int condomintswant = input.nextInt();
+  if(condomintswant=1){
+  System.out.println("You got ketchup with fries");
+  }//nested if#1
+  else if(condomintswant=1){
+  System.out.println("You got mustard with fries");
+  }
+  else if(condomintswant=1){
+  System.out.println("You got mayo with fries");
+  }
+  else{
+  System.out.println("You got just fries");
+  }
+  }//ends the yes for fries
+  else if(frychoice==1){
+  System.out.println("You got no fries");
+  }
+  else{
+  System.out.println("ERROR");
+  }
+  
+  
+  }//ends void
+}// ends class

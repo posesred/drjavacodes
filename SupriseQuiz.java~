@@ -1,0 +1,33 @@
+public class SupriseQuiz {
+  public static void main(String[] args){
+   System.out.println("                   ___  ___");
+   System.out.println("         \\  \\  /`\\ \\  \\ \\  \\ \\  \\");
+   System.out.println("          \\__\\ \\__\\ \\__\' \\__\' \\__\\");
+   System.out.println("           \\  \\ \\  \\ \\    \\     \\");
+   System.out.println("            \\  \\ \\  \\ \\    \\     \\");
+   System.out.println("                    ___         ___  ___");
+   System.out.println("\\  \\  /`\\ \\    \\    \\  \\ \\    \\ \\    \\    \\.  \\");
+   System.out.println(" \\__\\ \\__\\ \\    \\    \\  \\ \\  . \\ \\__  \\__  \\`\\ \\");
+   System.out.println("  \\  \\ \\  \\ \\    \\    \\  \\ \\ |`\\\\ \\    \\    \\ `\\\\");
+   System.out.println("   \\  \\ \\  \\ \\___ \\___ \\__\\ \\|  `\\ \\___ \\___ \\  `\\");
+   System.out.println("");
+   System.out.println("");
+   System.out.println("");
+   System.out.println("");
+   System.out.println("");
+   System.out.println("");
+   System.out.println("");
+   System.out.println("");
+   System.out.println("");
+   System.out.println("");
+   System.out.println("");
+   System.out.println("");
+   System.out.println("");
+   System.out.println("");
+   System.out.println("");
+   System.out.println("");
+    
+    
+  } 
+}
+

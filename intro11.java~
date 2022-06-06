@@ -1,0 +1,42 @@
+//Sanatjon
+//oct19
+import java.util.*;
+public class intro11{
+  public static void main(String[] args){
+    // Declarations
+    Scanner input = new Scanner(System.in);
+    
+    System.out.println("What is your name? ");
+    String name = input.nextLine();
+    System.out.println("How old are you? ");
+    int age = input.nextInt();
+    System.out.println("What is your favorite color? ");
+    input.nextLine();
+    String color = input.nextLine();
+    System.out.println("What are your scared of? ");
+    String fear = input.nextLine();
+    System.out.println("What is your least favorite candy? ");
+    String candy = input.nextLine();
+    System.out.println("Where do you live? ");
+    String adress = input.nextLine();
+    System.out.println("Who are your friends? ");
+    String friends = input.nextLine();
+    
+     
+    
+    System.out.println("What is your name? ");
+    String name = input.nextLine();
+    System.out.println("How old are you? ");
+    int age = input.nextInt();
+    System.out.println("What is your favorite color? ");
+    input.nextLine();
+    String color = input.nextLine();
+    System.out.println("What are your scared of? ");
+    String fear = input.nextLine();
+    System.out.println("What is your least favorite candy? ");
+    String candy = input.nextLine();
+    System.out.println("Where do you live? ");
+    
+  
+  }//ends main
+}//ends class

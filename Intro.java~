@@ -1,0 +1,10 @@
+// is a c,,emt that compiler cannot read
+//sanatjon
+//sep 29
+public class Intro{ // this {} is called code blocks ... this is where stuff goes 
+  public static void main(String[] args){
+    System.out.println("Hello world =)" );
+  }// ends main
+}//ends class
+
+

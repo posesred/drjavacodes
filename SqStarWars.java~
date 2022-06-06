@@ -1,0 +1,14 @@
+//nov 5
+//Sanatjon
+import java.util.*;
+public class SqStarWars{
+  public static void main(String[] args){
+  //Declarations 
+  Scanner x = new Scanner(System.in);
+  String fname,lname,mname,city,car;
+  
+  System.out.println("\t\t\tStar Wars Name Generator");
+  
+  
+  }
+}

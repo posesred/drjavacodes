@@ -1,0 +1,25 @@
+//Sanat
+//java
+import java.util.*;
+public class intro10{
+  public static void main(String[] args){
+    //Declaration
+    Scanner input = new Scanner(System.in);
+    String clothing;
+    int feet;
+    int inches;
+    String beverage;
+    System.out.println("What is your favorite clothing brand? ");
+    clothing = input.nextLine();
+    System.out.printn("How tall are you? Answer the feet value then inches ");
+    System.out.print("Feet: ");
+    feet = intput.nextInt();
+    System.out.print("Inches: ");
+    inches = intput.nextInt();
+    System.out.println("What is your favorite beverage? ");
+    beverage = input.nextLine();
+    
+    
+    
+  }//ends void
+}//ends class

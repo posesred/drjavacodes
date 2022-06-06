@@ -1,0 +1,15 @@
+//sanatjon
+//oct 17 pop quiz
+Import jvaa.until.Scanner;
+public class popquiz3{
+  public static void main(String[] args){
+  // Declarations...
+    Scanner input = new Scanner(System.in);
+    
+  
+  
+  
+  
+  
+  }//ends mains
+}//ends class

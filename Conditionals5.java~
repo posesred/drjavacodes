@@ -1,0 +1,17 @@
+// sanatjon
+//nov 22
+import java.util.*;
+
+public class Conditionals5{
+  public static void main(String[] args){
+  // Declarations
+  Scanner x = new Scanner(System.in);
+  System.out.println("Enter a number ");
+  int num = x.nextInt();
+  if(num%3==0 && num%4==0 && num!=0){
+  System.out.println("This is a Grovy number ");  
+  
+  }//ends the first if
+  
+  }//ends void 
+}//ends class

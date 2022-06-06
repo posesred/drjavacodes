@@ -1,0 +1,19 @@
+// is a c,,emt that compiler cannot read
+//sanatjon
+//sep 29
+public class Intro1{ // this {} is called code blocks ... this is where stuff goes 
+  public static void main(String[] args){
+    System.out.println("Hello world =)" );
+    System.out.println("Sad face");
+    System.out.println("happy fae");
+    System.out.println(7.45*2);
+    // numberical value dont need quotation marks
+    System.out.println(' ');
+    // ' ' inside you can only put one character
+    //character is any button on a cumputer
+    
+  }// ends main
+}//ends class
+
+
+
